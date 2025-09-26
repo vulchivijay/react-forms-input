@@ -16,8 +16,7 @@ export default function Signup() {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h2>Welcome on board!</h2>
-      <p>Login - With browser inbuild new FormData method. i.e., name attribute must for input fields.</p>
+      <h2>Welcome on board! - With browser inbuild new FormData method. i.e., name attribute must for input fields.</h2>
       <p>We just need a little bit of data from you to get you started 🚀</p>
 
       <div className="control">
